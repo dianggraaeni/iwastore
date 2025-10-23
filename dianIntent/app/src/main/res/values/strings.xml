@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">IwaStore</string>
+
+    <!-- Halaman Profil Vendor -->
+    <string name="vendor_profile_title">Profil Vendor</string>
+    <string name="vendor_name">Eco-Craft Surabaya</string>
+    <string name="vendor_category">Kerajinan Lingkungan</string>
+    <string name="status_open">Lagi Buka</string>
+    <string name="power_vendor">Power Vendor</string>
+
+    <string name="rating_value">4.6</string>
+    <string name="rating_reviews">999+ Ulasan</string>
+    <string name="price_range">10rb - 50rb</string>
+    <string name="price_label">Harga</string>
+    <string name="recommendations_value">500+</string>
+    <string name="recommendations_label">Rekomen</string>
+
+    <string name="catalog_menu">Katalog Menu</string>
+    <string name="promo">PROMO</string>
+    <string name="recommendations">REKOMENDASI</string>
+    <string name="other">LAINNYA</string>
+
+    <string name="product_name_1">Tas Daur Ulang</string>
+    <string name="product_name_2">Piring Daur Ulang</string>
+    <string name="product_rating">4.9 (314 Ulasan)</string>
+    <string name="product_price_1">Rp14.999</string>
+    <string name="product_strikethrough_price_1">Rp16.000</string>
+    <string name="product_price_2">Rp15.000</string>
+    <string name="product_strikethrough_price_2">Rp15.001</string>
+
+    <string name="order_this_button">Pesan Ini</string>
+
+    <string name="cart_info">Hayuk 4 ribu lagi, biar bisa dapat diskon sampai 12rb lohh</string>
+    <string name="cart_title">Keranjang</string>
+    <string name="cart_items">1 Item</string>
+    <string name="cart_total_price_label">Total harga</string>
+    <string name="cart_total_price_value">Rp.20.000,00</string>
+
+    <string name="desc_sedotan_bambu">Satu set sedotan bambu alami yang bisa digunakan berulang kali. Lengkap dengan sikat pembersih. Ucapkan selamat tinggal pada sedotan plastik!</string>
+    <string name="desc_botol_stainless">Jaga hidrasi Anda dengan botol minum stainless steel ini. Menjaga suhu minuman panas atau dingin lebih lama. Desain minimalis dan tahan banting.</string>
+    <string name="desc_lunch_box_bambu">Bawa bekal makan siangmu dengan gaya! Kotak makan ini terbuat dari serat bambu alami, aman untuk makanan, dan mudah dibersihkan.</string>
+    <string name="desc_sendok_kayu">Set sendok dan garpu yang terbuat dari kayu mahoni. Halus, ringan, dan tidak akan menggores peralatan masak anti-lengket Anda.</string>
+    <string name="desc_tumbler_kopi">Tumbler kopi stylish untuk dibawa bepergian. Dinding gandanya menjaga kopimu tetap panas lebih lama tanpa membuat tanganmu kepanasan.</string>
+    <string name="desc_cangkir_bambu">Cangkir unik dari bambu asli. Cocok untuk minuman hangat atau dingin, memberikan sentuhan alami pada momen minum teh atau kopimu.</string>
+
+    <string name="desc_tote_bag">Tas serbaguna yang dibuat dari bahan daur ulang berkualitas tinggi. Kuat, stylish, dan ramah lingkungan. Cocok untuk belanja atau kegiatan sehari-hari.</string>
+    <string name="desc_pouch_perca">Pouch cantik hasil jahitan tangan dari kain perca sisa produksi. Setiap pouch memiliki motif unik. Sempurna untuk menyimpan kosmetik atau koin.</string>
+    <string name="desc_tas_lipat">Tas belanja praktis yang bisa dilipat menjadi sangat kecil. Selalu siap sedia di dalam tasmu untuk mengurangi penggunaan kantong plastik.</string>
+
+    <string name="desc_shampoo_bar">Shampoo dalam bentuk batangan yang praktis dan bebas kemasan plastik. Dibuat dari bahan-bahan herbal alami yang menyehatkan rambut dan kulit kepala.</string>
+    <string name="desc_sabun_alami">Sabun mandi handmade yang dibuat dari minyak zaitun dan kelapa. Melembutkan kulit tanpa bahan kimia keras. Tersedia dalam berbagai aroma alami.</string>
+    <string name="desc_spons_loofah">Spons mandi alami dari buah loofah (gambas) kering. Efektif mengangkat sel kulit mati dan 100% bisa terurai (biodegradable).</string>
+    <string name="desc_deodoran_natural">Deodoran stik yang terbuat dari bahan-bahan alami seperti baking soda dan arrowroot powder. Efektif menahan bau tanpa menyumbat pori-pori.</string>
+
+    <string name="product_image_description">Gambar Produk</string>
+    <string name="add_quantity">Tambah jumlah</string>
+    <string name="remove_quantity">Kurangi jumlah</string>
+    <string name="initial_quantity">1</string>
+
+</resources>
